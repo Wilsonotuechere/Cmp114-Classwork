@@ -9,7 +9,7 @@ class Physics:
     def calc_power(self, w, t):
         return w/t
 
-    def calc_workdone(self, f, d):
+    def calc__workdone(self, f, d):
         return f*d
 
     def calc_momentum(self, M, V):
